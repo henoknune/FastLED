@@ -26,3 +26,4 @@ jobs:
 
       - name: build FastLED examples
         run: ./ci/ci-compile
+iam ready for this
